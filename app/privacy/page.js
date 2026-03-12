@@ -150,7 +150,28 @@ export default function PrivacyPolicy() {
             </section>
 
             <section>
-              <h2 className="text-2xl font-semibold text-foreground mb-4">11. Contact Us</h2>
+              <h2 className="text-2xl font-semibold text-foreground mb-4">11. Message to LCPS Reviewers</h2>
+              <p className="text-muted-foreground leading-relaxed mb-4">
+                The following is a direct summary for LCPS OnBoard and Digital Innovation reviewers. We do not do the following:
+              </p>
+              <ul className="list-disc pl-6 space-y-2 text-muted-foreground leading-relaxed">
+                <li>We do <strong className="text-foreground">not</strong> sell, rent, or share personal information with third parties for advertising or marketing.</li>
+                <li>We do <strong className="text-foreground">not</strong> use behavioral or contextual advertising; we do not use third-party advertising or tracking that collects user information.</li>
+                <li>We do <strong className="text-foreground">not</strong> use personal information to track or target users on other websites or services.</li>
+                <li>We do <strong className="text-foreground">not</strong> allow student-to-student chat, direct messaging, or any student-to-student communication on this site.</li>
+                <li>Student data is <strong className="text-foreground">not</strong> visible to other students; tools (e.g., seating chart, grade calculator) are used locally or by a single user; we do not maintain a central student database or share user data between users.</li>
+                <li>We do <strong className="text-foreground">not</strong> collect or maintain assessment scores or individual student assessment data.</li>
+                <li>We do <strong className="text-foreground">not</strong> collect student information beyond what a user voluntarily enters in a tool (e.g., names in a seating chart); such data stays in the user&apos;s browser (local storage) or is not stored by us at all.</li>
+                <li>Parents may request deletion of any data; we do not maintain personal data on our servers, and any local data can be cleared by the user via browser settings.</li>
+                <li>This site is <strong className="text-foreground">not</strong> ad-supported and is <strong className="text-foreground">not</strong> freemium.</li>
+                <li>We do <strong className="text-foreground">not</strong> use generative AI or other AI features that process student or user input.</li>
+                <li>We do <strong className="text-foreground">not</strong> require user accounts or login for the tools on this site; there is no student authentication or account creation.</li>
+                <li>New tools added to this site are limited to the same model: no accounts, no server-side storage of personal data, no student-to-student features.</li>
+              </ul>
+            </section>
+
+            <section>
+              <h2 className="text-2xl font-semibold text-foreground mb-4">12. Contact Us</h2>
               <p className="text-muted-foreground leading-relaxed">
                 If you have any questions about this Privacy Policy or our privacy practices, please contact us at:
               </p>
